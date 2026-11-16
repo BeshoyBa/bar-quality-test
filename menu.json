@@ -1,0 +1,620 @@
+{
+  "name": "Quality",
+  "sub": "PIZZA & FOOD",
+  "tagline": "La vera pizza è una questione di qualità!",
+  "phone": "348 162 6519",
+  "menus": [
+    {
+      "title": "Pizzeria",
+      "cats": [
+        {
+          "name": "Pizze speciali",
+          "items": [
+            {
+              "n": "Kebab",
+              "d": "pomodoro, fior di latte, insalata, pomodoro fresco, cipolla, kebab e salsa",
+              "p": 10,
+              "t": 1,
+              "a": 1
+            },
+            {
+              "n": "Estate",
+              "d": "pomodoro, mozzarella di bufala, prosciutto crudo, pomodorini, rucola",
+              "p": 10,
+              "a": 1
+            },
+            {
+              "n": "Trentino",
+              "d": "fior di latte, porcini, speck, scamorza affumicata",
+              "p": 10,
+              "a": 1
+            },
+            {
+              "n": "Calabrese",
+              "d": "pomodoro, fior di latte, 'nduja, cipolla, olive taggiasche",
+              "p": 10,
+              "a": 1
+            },
+            {
+              "n": "Mortadella",
+              "d": "pomodoro, crescenza, mortadella, pistacchi di Bronte",
+              "p": 10,
+              "a": 1
+            },
+            {
+              "n": "Quality",
+              "d": "pomodoro, fior di latte, olive taggiasche, porcini, scamorza",
+              "p": 10,
+              "a": 1
+            }
+          ],
+          "ic": "star"
+        },
+        {
+          "name": "Pizze classiche",
+          "items": [
+            {
+              "n": "Capricciosa",
+              "d": "pomodoro, fior di latte, prosciutto cotto, funghi, carciofi, olive",
+              "p": 9,
+              "a": 1
+            },
+            {
+              "n": "Quattro stagioni",
+              "d": "pomodoro, mozzarella, prosciutto cotto, funghi, carciofi, olive nere",
+              "p": 9,
+              "a": 1
+            },
+            {
+              "n": "Margherita",
+              "d": "pomodoro, fior di latte",
+              "p": 6,
+              "a": 1
+            },
+            {
+              "n": "Marinara",
+              "d": "pomodoro, aglio, origano, olio d'oliva",
+              "p": 5,
+              "a": 1
+            },
+            {
+              "n": "Biancaneve",
+              "d": "mozzarella fior di latte",
+              "p": 5,
+              "a": 1
+            },
+            {
+              "n": "Pomodorini",
+              "d": "pomodoro, pomodorini freschi, origano, olio Evo",
+              "p": 6,
+              "a": 1
+            },
+            {
+              "n": "Bufala",
+              "d": "pomodoro, mozzarella di bufala",
+              "p": 7,
+              "a": 1
+            },
+            {
+              "n": "Mediterranea",
+              "d": "pomodoro, pomodorini freschi, rucola",
+              "p": 7,
+              "a": 1
+            },
+            {
+              "n": "Prosciutto cotto",
+              "d": "pomodoro, fior di latte, prosciutto cotto",
+              "p": 7,
+              "a": 1
+            },
+            {
+              "n": "Prosciutto crudo",
+              "d": "pomodoro, fior di latte, crudo di Parma",
+              "p": 8,
+              "a": 1
+            },
+            {
+              "n": "Diavola",
+              "d": "pomodoro, fior di latte, salame piccante",
+              "p": 7,
+              "a": 1
+            },
+            {
+              "n": "Wurstel",
+              "d": "pomodoro, fior di latte, wurstel",
+              "p": 7,
+              "a": 1
+            },
+            {
+              "n": "'Nduja",
+              "d": "pomodoro, fior di latte, 'nduja",
+              "p": 7,
+              "a": 1
+            },
+            {
+              "n": "Salsiccia & friarielli",
+              "d": "fior di latte, salsiccia, friarielli",
+              "p": 8,
+              "a": 1
+            },
+            {
+              "n": "Panna & speck",
+              "d": "panna, speck",
+              "p": 7,
+              "a": 1
+            },
+            {
+              "n": "Quattro formaggi",
+              "d": "pomodoro, fior di latte, formaggi misti",
+              "p": 9,
+              "a": 1
+            },
+            {
+              "n": "Zola",
+              "d": "pomodoro, fior di latte, gorgonzola",
+              "p": 7,
+              "a": 1
+            },
+            {
+              "n": "Scamorza",
+              "d": "pomodoro, fior di latte, scamorza affumicata",
+              "p": 7,
+              "a": 1
+            },
+            {
+              "n": "Funghi",
+              "d": "pomodoro, fior di latte, champignon",
+              "p": 7,
+              "a": 1
+            },
+            {
+              "n": "Funghi porcini",
+              "d": "pomodoro, fior di latte, funghi porcini",
+              "p": 8,
+              "a": 1
+            },
+            {
+              "n": "Vegetariana",
+              "d": "pomodoro, fior di latte, peperoni, melanzane, zucchine",
+              "p": 8,
+              "a": 1
+            },
+            {
+              "n": "Parmigiana",
+              "d": "pomodoro, melanzane, scaglie di Grana",
+              "p": 8,
+              "a": 1
+            },
+            {
+              "n": "Tonno & cipolla",
+              "d": "pomodoro, fior di latte, tonno, cipolla",
+              "p": 9,
+              "a": 1
+            },
+            {
+              "n": "Napoli",
+              "d": "pomodoro, fior di latte, acciughe, origano",
+              "p": 8,
+              "a": 1
+            },
+            {
+              "n": "Siciliana",
+              "d": "pomodoro, capperi, olive, acciughe, origano",
+              "p": 7,
+              "a": 1
+            },
+            {
+              "n": "Romana",
+              "d": "pomodoro, fior di latte, acciughe, capperi, olive, origano",
+              "p": 9,
+              "a": 1
+            },
+            {
+              "n": "Vogherese",
+              "d": "pomodoro, fior di latte, peperoni, acciughe",
+              "p": 8,
+              "a": 1
+            },
+            {
+              "n": "Calzone semplice",
+              "d": "pomodoro, fior di latte, prosciutto cotto",
+              "p": 7,
+              "a": 1
+            },
+            {
+              "n": "Calzone farcito",
+              "d": "pomodoro, fior di latte, prosciutto cotto, carciofi, funghi, olive",
+              "p": 9,
+              "a": 1
+            }
+          ],
+          "ic": "pizza"
+        },
+        {
+          "name": "Focacce",
+          "items": [
+            {
+              "n": "Focaccia \"Recco Style\"",
+              "d": "ripieno di crescenza",
+              "p": 11,
+              "t": 1,
+              "a": 1
+            },
+            {
+              "n": "Focaccia \"Recco Style\" farcita",
+              "d": "ripieno di crescenza e prosciutto cotto",
+              "p": 12,
+              "a": 1
+            },
+            {
+              "n": "Focaccia semplice",
+              "d": "olio, sale, origano",
+              "p": 4,
+              "a": 1
+            }
+          ],
+          "ic": "focaccia"
+        },
+        {
+          "name": "Panini & piadine",
+          "items": [
+            {
+              "n": "Primavera",
+              "d": "prosciutto cotto, mozzarella, pomodoro, insalata",
+              "p": 6,
+              "a": 1
+            },
+            {
+              "n": "Panino kebab",
+              "d": "carne di kebab, insalata, pomodoro fresco, cipolla e salsa",
+              "p": 6,
+              "a": 1
+            },
+            {
+              "n": "Piadina kebab",
+              "d": "carne di kebab, insalata, pomodoro fresco, cipolla e salsa",
+              "p": 6,
+              "a": 1
+            },
+            {
+              "n": "Tricolore",
+              "d": "mozzarella, pomodoro a fette, origano, olio",
+              "p": 6,
+              "a": 1
+            },
+            {
+              "n": "Paesano",
+              "d": "mortadella e stracchino",
+              "p": 6,
+              "a": 1
+            },
+            {
+              "n": "Boscaiolo",
+              "d": "speck, brie o zola, salsa boscaiola",
+              "p": 6,
+              "a": 1
+            },
+            {
+              "n": "Panino classico",
+              "d": "hamburger, insalata, pomodoro fresco, cipolla e salsa",
+              "p": 6,
+              "a": 1
+            },
+            {
+              "n": "Panino croccante",
+              "d": "pollo croccante, insalata e salsa",
+              "p": 6,
+              "a": 1
+            },
+            {
+              "n": "Panino crudo",
+              "d": "rucola, crudo, scaglie di grana",
+              "p": 6,
+              "a": 1
+            },
+            {
+              "n": "Piadina cotto e formaggio",
+              "d": "prosciutto cotto, formaggio",
+              "p": 6,
+              "a": 1
+            }
+          ],
+          "ic": "panino"
+        }
+      ]
+    },
+    {
+      "title": "Bar & rosticceria",
+      "cats": [
+        {
+          "name": "Caffetteria",
+          "items": [
+            {
+              "n": "Caffè",
+              "d": "",
+              "p": 1
+            },
+            {
+              "n": "Caffè dek",
+              "d": "",
+              "p": 1.2
+            },
+            {
+              "n": "Caffè corretto",
+              "d": "",
+              "p": 1.3
+            },
+            {
+              "n": "Cappuccino",
+              "d": "",
+              "p": 1.4
+            },
+            {
+              "n": "Cappuccino di soia",
+              "d": "",
+              "p": 1.5
+            },
+            {
+              "n": "Ginseng / orzo piccolo",
+              "d": "",
+              "p": 1.2
+            },
+            {
+              "n": "Ginseng / orzo grande",
+              "d": "",
+              "p": 1.4
+            },
+            {
+              "n": "Caffè marocco",
+              "d": "",
+              "p": 1.3
+            },
+            {
+              "n": "Latte macchiato",
+              "d": "",
+              "p": 1.4
+            },
+            {
+              "n": "Infusi / tè",
+              "d": "",
+              "p": 1.4
+            }
+          ],
+          "ic": "tazza"
+        },
+        {
+          "name": "Pasticceria",
+          "items": [
+            {
+              "n": "Brioche vuota",
+              "d": "",
+              "p": 1
+            },
+            {
+              "n": "Brioche ripiena",
+              "d": "",
+              "p": 1.2
+            }
+          ],
+          "ic": "cornetto"
+        },
+        {
+          "name": "Food & rosticceria",
+          "items": [
+            {
+              "n": "Rosticceria mix della casa",
+              "d": "",
+              "p": 6,
+              "t": 1
+            },
+            {
+              "n": "Arancino grande",
+              "d": "",
+              "p": 4
+            },
+            {
+              "n": "Arancino piccolo",
+              "d": "al pezzo",
+              "p": 1.5
+            },
+            {
+              "n": "Supplì",
+              "d": "al pezzo",
+              "p": 1.5
+            },
+            {
+              "n": "Crocchette di patate",
+              "d": "5 pezzi",
+              "p": 3.5
+            },
+            {
+              "n": "Olive ascolane",
+              "d": "5 pezzi",
+              "p": 3
+            },
+            {
+              "n": "Anelli di cipolla",
+              "d": "10 pezzi",
+              "p": 2
+            },
+            {
+              "n": "Patatine fritte grandi",
+              "d": "",
+              "p": 5
+            },
+            {
+              "n": "Patatine fritte medie",
+              "d": "",
+              "p": 4.5
+            },
+            {
+              "n": "Patatine fritte piccole",
+              "d": "",
+              "p": 3
+            },
+            {
+              "n": "Trancio pizza",
+              "d": "",
+              "p": 3,
+              "a": 1
+            },
+            {
+              "n": "Focaccia semplice",
+              "d": "",
+              "p": 2,
+              "a": 1
+            },
+            {
+              "n": "Focaccia farcita",
+              "d": "",
+              "p": 3.5,
+              "a": 1
+            },
+            {
+              "n": "Panzerotto pomodoro e mozzarella",
+              "d": "",
+              "p": 5,
+              "a": 1
+            },
+            {
+              "n": "Panzerotto farcito",
+              "d": "prosciutto cotto",
+              "p": 5.5,
+              "a": 1
+            },
+            {
+              "n": "Piadina prosciutto e formaggio",
+              "d": "",
+              "p": 6,
+              "a": 1
+            },
+            {
+              "n": "Maxi toast",
+              "d": "",
+              "p": 5.5,
+              "a": 1
+            },
+            {
+              "n": "Crêpe Nutella",
+              "d": "",
+              "p": 5
+            }
+          ],
+          "ic": "patatine"
+        }
+      ]
+    },
+    {
+      "title": "Bevande",
+      "hl": 1,
+      "cats": [
+        {
+          "name": "Bevande",
+          "ic": "bicchiere",
+          "items": [
+            {
+              "n": "Coca-Cola",
+              "d": "lattina",
+              "p": 2.5
+            },
+            {
+              "n": "Coca-Cola Zero",
+              "d": "lattina",
+              "p": 2.5
+            },
+            {
+              "n": "Sprite",
+              "d": "lattina",
+              "p": 2.5
+            },
+            {
+              "n": "Fanta",
+              "d": "lattina",
+              "p": 2.5
+            },
+            {
+              "n": "Red Bull",
+              "d": "",
+              "p": 4
+            },
+            {
+              "n": "Monster",
+              "d": "",
+              "p": 4
+            },
+            {
+              "n": "Tè pesca",
+              "d": "brick",
+              "p": 1.5
+            },
+            {
+              "n": "Tè limone",
+              "d": "brick",
+              "p": 1.5
+            },
+            {
+              "n": "Acqua 0,50 L",
+              "d": "",
+              "p": 1
+            },
+            {
+              "n": "Succhi di frutta",
+              "d": "",
+              "p": 3.5
+            },
+            {
+              "n": "Gatorade",
+              "d": "",
+              "p": 4
+            },
+            {
+              "n": "Birra lattina",
+              "d": "",
+              "p": 3
+            },
+            {
+              "n": "Birra Corona",
+              "d": "",
+              "p": 5
+            },
+            {
+              "n": "Birra bottiglia 33 cl",
+              "d": "",
+              "p": 3
+            },
+            {
+              "n": "Birra bottiglia 66 cl",
+              "d": "",
+              "p": 4
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "wa": "393481626519",
+  "info": {
+    "sconto": "Sconto del 10% per gli studenti",
+    "promo": "Le promozioni cambiano ogni mese: le trovi sempre sui nostri social.",
+    "indirizzo": "Via Carlo Cattaneo 18, 27058 Voghera",
+    "ig": "https://www.instagram.com/barquality_official",
+    "fb": "https://www.facebook.com/share/19tLgdVYhy/?mibextid=wwXIfr",
+    "google": "https://app.reviewflowz.com/q/78xBK3ZUvKvJwEKXgH1Qv1",
+    "ta": "https://www.tripadvisor.com/UserReviewEdit-d34760278?m=68676",
+    "cons_costo": "1",
+    "cons_gratis": "30",
+    "cons_omaggio": "40",
+    "agg_prezzo": "1",
+    "stud_pct": "10",
+    "agg_pagamento": "prosciutto cotto, prosciutto crudo, speck, mortadella, salame piccante, wurstel, salsiccia, 'nduja, tonno, acciughe, patatine, funghi, funghi porcini, carciofi, olive, olive taggiasche, capperi, peperoni, melanzane, zucchine, cipolla, friarielli, pomodorini, zola, scamorza, formaggi misti, grana, panna, mozzarella di bufala, doppia mozzarella",
+    "agg_gratis": "basilico, origano, filo d'olio, rucola, aglio, olio piccante",
+    "agg_top": "origano, filo d'olio, patatine, wurstel, doppia mozzarella, olive, funghi, zola",
+    "ore_pizzeria": "11:00-15:00, 18:00-22:30",
+    "ore_bar": "05:30-22:30",
+    "prep": "20",
+    "rag": "San Giorgio",
+    "piva": "03056000189",
+    "sede": "Via Carlo Cattaneo 18, 27058 Voghera",
+    "mail": "info@barquality.it"
+  }
+}

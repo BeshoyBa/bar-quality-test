@@ -1,0 +1,25 @@
+BAR QUALITY - VERSIONE DI PROVA
+
+Questa cartella è pensata per una pubblicazione separata su GitHub Pages.
+NON caricarla nel repository che pubblica barquality.it.
+
+1) Crea su GitHub un nuovo repository chiamato BarQuality-test.
+2) Imposta il repository come Public.
+3) Carica direttamente nella ROOT tutti i file e le cartelle di questa cartella
+   (index.html deve trovarsi nella root, non dentro un'altra cartella).
+4) In Settings > Pages seleziona Deploy from a branch, branch main, folder /(root), Save.
+5) In Firebase Console > Authentication > Settings > Authorized domains aggiungi:
+   beshoyba.github.io
+   Se il tuo username GitHub ha una grafia diversa nell'URL, aggiungi il dominio host esatto.
+6) Attendi il completamento della pubblicazione. L'indirizzo di prova sarà normalmente:
+   https://beshoyba.github.io/BarQuality-test/
+7) Apri /admin.html e accedi con l'account Firebase proprietario.
+
+SICUREZZA:
+- Non caricare questo pacchetto nel repository collegato a barquality.it.
+- Non condividere password, token GitHub o chiavi private.
+- Le regole Firestore devono consentire menu/current al solo UID proprietario.
+- Questa prova usa lo stesso database Firebase del progetto configurato: eventuali
+  modifiche al menu salvate qui saranno visibili anche a ogni sito che legge quel menu.
+  Prima di fare modifiche di prova, considera che potresti alterare il menu live se
+  il sito attuale è già collegato allo stesso documento menu/current.
